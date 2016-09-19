@@ -1,0 +1,4 @@
+config/config_env.rb
+db/*.*
+db/seeds/student_id.yml
+.bundle/
